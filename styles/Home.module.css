@@ -1,0 +1,14 @@
+.formulario {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+
+.main {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
